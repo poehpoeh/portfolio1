@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="Stylesheet" type="text/css" href="Portfolio%201.css" />
+    <title>AS portfolio</title>
+</head>
+<body background color="azure">
+
+<!-- nav -->
+<ul id="nav">
+    <li><a href="Portfolio%201.html">Home</a></li>
+    <li><a href="Project.html">Projects<a></li>
+<li><a href="CV.html">CV</a></li>
+    <li><a href="Contact.html">Contact</a></li>
+</ul>
+
+<!-- pic -->
+<img id="main-image" src="http://7-themes.com/data_images/out/63/6986593-blue-photography.jpg">
+
+<H1 id="header">Hi, my name is Arla</H1>
+
+<p class="about">
+    There is not too much to say about me. I am a recruiter in the technology space and decided to learn programming to be able to speak to my candidates.
+</p>
+
+<p>
+    <a href="Project.html" class="button">Check out my projects</a>
+</p>
+
+</body>
+
+</html>
