@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="Stylesheet" type="text/css" href="Portfolio%201.css" />
+    <title></title>
+</head>
+<body>
+<!-- nav -->
+<ul id="nav">
+    <li><a href="Portfolio%201.html">Home</a></li>
+    <li><a href="Project.html">Projects<a></li>
+    <li><a href="CV.html">CV</a></li>
+    <li><a href="Contact.html">Contact</a></li>
+</ul>
+
+    <table  id="contact">
+
+    <caption><h1>Get in touch</h1></caption>
+    <tr>
+        <td>email</td>
+        <td>saadi.arla@gmail.com</td>
+<tr>
+    <td>phone</td>
+    <td>00000000</td>
+</tr>
+
+</table>
+
+</body>
+</html>
