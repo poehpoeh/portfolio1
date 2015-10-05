@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="Stylesheet" type="text/css" href="Portfolio%201.css" />
+    <title></title>
+</head>
+<body>
+<!-- nav -->
+<ul id="nav">
+    <li><a href="Portfolio%201.html">Home</a></li>
+    <li><a href="Project.html">Projects<a></li>
+    <li><a href="CV.html">CV</a></li>
+    <li><a href="Contact.html">Contact</a></li>
+</ul>
+
+<table id="CV">
+    <caption><h1>CV</h1></caption>
+
+    <tr>
+        <td rowspan="2">Experience</td>
+        <td>04/2014 - now</td>
+        <td>Recruiter at Codility</td>
+    </tr>
+    <tr>
+        <td>07/2013 - 02/2014</td>
+        <td> International internships coordinator at AIESEC</td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td rowspan="3">Education</td>
+
+        <td>10/2015-now</td>
+        <td>Coders Lab</td>
+
+    </tr>
+    <tr>
+        <td>2009-2011</td>
+        <td>University of Warsaw, interfaculty east-slavonic studies</td>
+        </tr>
+    <tr>
+        <td>2012-2014</td>
+        <td>Warsaw School of Economics, management</td>
+    </tr>
+
+    <tr>
+        <td>Interests</td>
+        <td></td>
+        <td>Cooking, Traveling, Technology</td>
+
+    </tr>
+
+
+
+</body>
+</html>
