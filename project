@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="Stylesheet" type="text/css" href="Portfolio%201.css" />
+    <title></title>
+</head>
+<body>
+<!-- nav -->
+<ul id="nav">
+    <li><a href="Portfolio%201.html">Home</a></li>
+    <li><a href="Project.html">Projects<a></li>
+    <li><a href="CV.html">CV</a></li>
+    <li><a href="Contact.html">Contact</a></li>
+
+</ul>
+
+<table id="project-table">
+    <caption><h1>My projects</h1></caption>
+    <tr>
+        <td align="center"><img class="project-image" src="http://dia.tv/wp-content/uploads/2014/08/Project_logo_02.png"></td>
+        <td align="center"><img class="project-image" src="http://dia.tv/wp-content/uploads/2014/08/Project_logo_02.png"></td>
+        <td align="center"><img class="project-image" src="http://dia.tv/wp-content/uploads/2014/08/Project_logo_02.png"></td>
+    </tr>
+<tr>
+    <td>This is a great and interesting project about XYZ</td>
+    <td>This is a great and interesting project about XYZ</td>
+    <td>This is a great and interesting project about XYZ</td>
+
+</tr>
+</table>
+
+</body>
+</html>
